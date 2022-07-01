@@ -172,10 +172,61 @@ margin-top: 50px;
  /*  */
 
  .vip h5{
-  font-size: 28px;
+  font-size: 38px;
   font-weight: bold;
   color: #204088;
  }
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  color: black;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  /* background: #3B5998; */
+    color: black;
+}
+
+/* Twitter */
+.fa-twitter {
+  /* background: #55ACEE; */
+  /* color: white; */
+}
+
+/* Instagram */
+.fa-instagram {
+  /* background: #55ACEE; */
+  /* color: white; */
+}
+
+/* Whatsapp */
+.fa-whatsapp {
+  /* background: #55ACEE; */
+  /* color: white; */
+}
+
+.follow {
+  background-color: blue;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #eee;
+}
+
+
 
 /*collapsible section start*/
 /* Style the button that is used to open and close the collapsible content */
